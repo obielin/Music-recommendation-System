@@ -1,4 +1,4 @@
-# Music-recommendation-System
+# Music-recommendation-System Using Spotify API
 This project provides a Python script for extracting detailed music data from Spotify playlists using the Spotipy library. It offers functionalities like:
 
 Retrieve track information (name, artists, album details, ID, popularity)
