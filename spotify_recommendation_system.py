@@ -19,6 +19,7 @@ token_url = 'https://accounts.spotify.com/api/token'
 headers = {
     'Authorization': f'Basic {credentials_base64.decode()}'
 }
+
 data = {
     'grant_type': 'client_credentials'
 }
